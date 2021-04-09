@@ -16,8 +16,8 @@ workshop
 
 [animated_sliding_menu_indicator](https://andriykikot.github.io/workshop/animation/menu/animated_sliding_menu_indicator/)  
 [animated_sliding_menu_indicator_ver.2](https://andriykikot.github.io/workshop/animation/menu/animated_sliding_menu_indicator_ver.2/)  
-[change_cursor_on_hover](https://andriykikot.github.io/workshop/animation/menu/change_cursor_on_hover/)
-[menu_item_hover_effects](https://andriykikot.github.io/workshop/animation/menu/menu_item_hover_effects/)
+[change_cursor_on_hover](https://andriykikot.github.io/workshop/animation/menu/change_cursor_on_hover/)  
+[menu_item_hover_effects](https://andriykikot.github.io/workshop/animation/menu/menu_item_hover_effects/)  
 [quick_menu_item_hover_effects](https://andriykikot.github.io/workshop/animation/menu/quick_menu_item_hover_effects/)
 
 ### Other
